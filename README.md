@@ -8,7 +8,7 @@ Introducing myself as a professional  web developer. I have developed a huge num
 
 Skills:  HTML / CSS / SASS /  BOOTSTRAP / TAILWIND / MATERIALIZE / JS / VUE JS / NUXT JS / REACT / NEXT / WORDPRESS / FIGMA / XD
 
-- 📫 How to reach me: https://abrar-zahed.netlify.app/ 
+- 📫 How to reach me: https://abrar-zahed.herokuapp.com/ 
 
  
 
