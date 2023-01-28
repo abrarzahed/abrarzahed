@@ -8,7 +8,7 @@
 
 ### Skills:  HTML, CSS, SASS,  BOOTSTRAP, TAILWIND CSS, MATERIALIZE CSS, JAVASCRIPT, REACT JS, NEXT JS, VUE JS, NUXT JS, WORDPRESS, FIGMA, XD
 
-## How to reach me: https://abrar-zahed.herokuapp.com/ 
+## How to reach me: https://abrar-zahed.netlify.app/
 
  
 
